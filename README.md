@@ -16,7 +16,7 @@ ifconfig
 
 *10.21.154.254 ici*
 
-![](Pasted image 20250919151030.png)
+![](image2.png)
 
 Connexion établie avec le routeur
 
