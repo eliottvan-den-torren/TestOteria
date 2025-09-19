@@ -8,7 +8,7 @@
 ifconfig
 ```
 
-![](Pasted image 20250919150632.png)
+![](image1.png)
 
 # Ping son routeur
 
@@ -34,5 +34,5 @@ ping google.com
 Si lors de l’exécution de l'une des commandes citées ci dessus 
 le message suivant apparaît, alors la connexion est établie
 
-![](/home/blackhell/Bureau/Test/TestOteria/Pasted image 20250919150111.png)
+![](Pasted image 20250919150111.png)
 
