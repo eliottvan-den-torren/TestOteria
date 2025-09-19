@@ -1,22 +1,22 @@
-# TestOteria
+# Diagnostiquer sa connexion
 
 # Vérifier son IP
 
-*Commandes pour vérifier son IP et l'IP du routeur  :
+*Commandes pour vérifier son IP et l'IP du routeur  :*
 
 ```terminal
 ifconfig
 ```
 
-![](image1.png)
+![](image4.png)
 
 # Ping son routeur
 
-**192.168.1.1 ( Adresse par défaut du routeur )
+**192.168.1.1** ( Adresse par défaut du routeur )
 
 *10.21.154.254 ici*
 
-![](image2.png)
+![](image5.png)
 
 Connexion établie avec le routeur
 
@@ -34,5 +34,5 @@ ping google.com
 Si lors de l’exécution de l'une des commandes citées ci dessus 
 le message suivant apparaît, alors la connexion est établie
 
-![](Pasted image 20250919150111.png)
+![](image2.png)
 
