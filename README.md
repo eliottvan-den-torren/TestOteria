@@ -8,7 +8,7 @@
 ifconfig
 ```
 
-![](image4.png)
+![](/images/image4.png)
 
 # Ping son routeur
 
@@ -16,7 +16,7 @@ ifconfig
 
 *10.21.154.254 ici*
 
-![](image5.png)
+![](/images/image5.png)
 
 Connexion établie avec le routeur
 
@@ -34,5 +34,5 @@ ping google.com
 Si lors de l’exécution de l'une des commandes citées ci dessus 
 le message suivant apparaît, alors la connexion est établie
 
-![](image2.png)
+![](/images/image2.png)
 
