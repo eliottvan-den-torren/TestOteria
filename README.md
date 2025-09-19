@@ -1,7 +1,5 @@
 # TestOteria
 
-# test pour le readme
-
 # Vérifier son IP
 
 *Commandes pour vérifier son IP et l'IP du routeur  :
